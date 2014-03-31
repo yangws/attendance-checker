@@ -2,6 +2,8 @@
 *.o
 *.a
 *.so
+main
+attendance-checker
 
 # Folders
 _obj
@@ -21,3 +23,6 @@ _testmain.go
 
 *.exe
 *.test
+
+# Mac meta file
+.DS_Store
